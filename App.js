@@ -21,10 +21,10 @@ class Storeapp extends React.Component{
                         <h3>Download My Smartfren App from </h3>
                     </div>
                     <div className="but">
-                        <a href="http://play.google.com/store/apps/details?id=">
+                        <a href="http://play.google.com/store/apps/details?id=com.smartfren&hl=en">
                             <img className="imggplay" src={"https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png"} />
                         </a> 
-                        <a href="https://itunes.apple.com/us/app/expo-client/id982107779?mt=8">
+                        <a href="https://itunes.apple.com/id/app/mysmartfren/id1209898190?mt=8">
                             <img className="imgios" src={iosimg}/>
                         </a>
                     </div>
