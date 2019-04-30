@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/mysf/static/css/main.f4a53de9.chunk.css",
-    "main.js": "/mysf/static/js/main.a4818916.chunk.js",
-    "main.js.map": "/mysf/static/js/main.a4818916.chunk.js.map",
+    "main.css": "/mysf/static/css/main.9ec49fe9.chunk.css",
+    "main.js": "/mysf/static/js/main.243d452e.chunk.js",
+    "main.js.map": "/mysf/static/js/main.243d452e.chunk.js.map",
     "runtime~main.js": "/mysf/static/js/runtime~main.e40b3fd6.js",
     "runtime~main.js.map": "/mysf/static/js/runtime~main.e40b3fd6.js.map",
     "static/js/2.a68ccf2f.chunk.js": "/mysf/static/js/2.a68ccf2f.chunk.js",
     "static/js/2.a68ccf2f.chunk.js.map": "/mysf/static/js/2.a68ccf2f.chunk.js.map",
     "index.html": "/mysf/index.html",
-    "precache-manifest.e85b087b9a73511bdcdd4baa57161b75.js": "/mysf/precache-manifest.e85b087b9a73511bdcdd4baa57161b75.js",
+    "precache-manifest.d3f6fa2bccf94ad8070573e9e77bad17.js": "/mysf/precache-manifest.d3f6fa2bccf94ad8070573e9e77bad17.js",
     "service-worker.js": "/mysf/service-worker.js",
-    "static/css/main.f4a53de9.chunk.css.map": "/mysf/static/css/main.f4a53de9.chunk.css.map",
+    "static/css/main.9ec49fe9.chunk.css.map": "/mysf/static/css/main.9ec49fe9.chunk.css.map",
     "static/media/Download_on_the_App_Store_Badge_US-UK_RGB_blk_092917.svg": "/mysf/static/media/Download_on_the_App_Store_Badge_US-UK_RGB_blk_092917.2928664f.svg",
     "static/media/logo.png": "/mysf/static/media/logo.81004137.png",
     "static/media/rectangle.png": "/mysf/static/media/rectangle.4dc50a68.png"
